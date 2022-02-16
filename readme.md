@@ -1,7 +1,6 @@
 # Gitdemo
 
-# Changes
 
-# newbranch created
+# newbranch remote changes
 
 # Updated Changes
