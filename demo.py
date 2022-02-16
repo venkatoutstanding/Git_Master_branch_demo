@@ -1,0 +1,4 @@
+if :
+	pass
+while :
+	pass
